@@ -1,0 +1,26 @@
+const span = document.createElement('span');
+span.classList.add('box');
+span.addEventListener("click".function(){
+
+span.addEventListener("click".function(){span.innerHTML = ')
+
+
+const span = document.createElement('span');
+document.body.appendChild(span);
+span.classList.add('box');
+span.textContent = 'nekliknuto';
+span.addEventListener("click", myFunction2);
+
+
+function myFunction2(span){
+    span.target.textContent = 'kliknuto';
+}
+
+button {
+background-color: red;
+font: 72px;
+}
+
+button: hover{
+background-color: yellow;
+}

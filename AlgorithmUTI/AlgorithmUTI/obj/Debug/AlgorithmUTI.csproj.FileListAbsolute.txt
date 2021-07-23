@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\bin\Debug\AlgorithmUTI.exe.config
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\bin\Debug\AlgorithmUTI.exe
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\bin\Debug\AlgorithmUTI.pdb
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\obj\Debug\AlgorithmUTI.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\obj\Debug\AlgorithmUTI.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\obj\Debug\AlgorithmUTI.exe
+C:\Users\Denis\source\repos\AlgorithmUTI\AlgorithmUTI\obj\Debug\AlgorithmUTI.pdb
